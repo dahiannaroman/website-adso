@@ -27,14 +27,6 @@ header {
     left: 150rem;
 }
 
-.logo {
-    position: relative;
-    z-index: 1; 
-    width: 450px; 
-    height: 90px; 
-    left: 12rem;
-    margin-top: 6rem;
-  }
 
 .header-content {
     position: absolute; 
